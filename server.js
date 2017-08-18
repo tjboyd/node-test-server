@@ -57,4 +57,5 @@ app.get('/bad', (req, res) => {
 
 app.listen(port, () => {
   console.log(`Server is up on port ${port}.`);
+  console.log('Press Ctrl+C to quit.');
 });
