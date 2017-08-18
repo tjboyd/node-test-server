@@ -8,7 +8,7 @@
     "deploy": "gcloud app deploy",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "11eighty LLC",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
